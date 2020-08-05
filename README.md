@@ -2,7 +2,7 @@
 
 [![IronMan1024](https://github-readme-stats.vercel.app/api?username=IronMan1024&show_icons=true&theme=radical)](https://github.com/IronMan1024)
 
-
+[![IronMan1024](https://github-readme-stats.vercel.app/api/top-langs/?username=IronMan1024)](https://github.com/IronMan1024)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
