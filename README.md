@@ -1,6 +1,6 @@
 ## IronCode1024
 
-[![IronMan1024](https://github-readme-stats.vercel.app/api?username=IronMan1024&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![IronMan1024](https://github-readme-stats.vercel.app/api?username=IronMan1024&show_icons=true&theme=radical)](https://github.com/IronMan1024)
 
 
 <!--
