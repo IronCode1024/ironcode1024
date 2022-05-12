@@ -1,8 +1,8 @@
 ## IronCode1024
 
-[![IronMan1024](https://github-readme-stats.vercel.app/api?username=IronMan1024&show_icons=true&theme=radical)](https://github.com/IronMan1024)
+[![IronCode1024](https://github-readme-stats.vercel.app/api?username=IronMan1024&show_icons=true&theme=radical)](https://github.com/IronCode1024)
 
-[![IronMan1024](https://github-readme-stats.vercel.app/api/top-langs/?username=IronMan1024)](https://github.com/IronMan1024)
+[![IronCode1024](https://github-readme-stats.vercel.app/api/top-langs/?username=IronCode1024)](https://github.com/IronCode1024)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,5 +14,5 @@
 - ⚡ Fun fact: ...
 
 
-[![IronMan1024 github stats](https://github-readme-stats.vercel.app/api?username=IronMan1024)](https://github.com/IronMan1024)
+[![IronCode1024 github stats](https://github-readme-stats.vercel.app/api?username=IronCode1024)](https://github.com/IronCode1024)
 -->
